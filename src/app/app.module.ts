@@ -24,4 +24,4 @@ import { Exercice1EnfantComponent } from './exercice1/exercice1-enfant/exercice1
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule {}
